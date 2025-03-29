@@ -2,8 +2,8 @@
 class Db{
 		
 	private $dbHost     = "localhost";
-    private $dbUsername = "root";
-    private $dbPassword = "";
+    private $dbUsername = "venticx";
+    private $dbPassword = "Gabriela*1";
     private $dbName     = "softventas";
 	protected $p; 
 	protected $dbh; 
