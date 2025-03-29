@@ -1,0 +1,14 @@
+1. Para configurar los archiuvos de conexion para la base de datos, es necesario hacerlo en el archivo que se encuentra dentro
+de la carpeta class --> classconexion.php.
+
+2. Para configurar el respaldo y restauracion de la base de datos, es necesario hacerlo en los archivos backup.php y restore.php
+que se encuentran en la carpeta raiz del sistema.
+
+ADMINISTRADOR GENERAL --> USER Y PASS = TARQUINOCASTILLO
+ADMINISTRADOR SUCURSAL --> USER Y PASS = SEBASTIANCASTILLO
+SECRETARIA --> USER Y PASS = GABRIELACASTILLO
+CAJERO --> USER Y PASS = SOFIACASTILLO
+ADMINISTRADOR SUCURSAL --> USER Y PASS =JHONATAN 
+
+5.6.14 xamp 2015
+5.6.15 xampp 2019
